@@ -1,8 +1,8 @@
 public class TreeNode {
-    int id;
+    public int id;
     double val;
-    TreeNode left;
-    TreeNode right;
+    public TreeNode left;
+    public TreeNode right;
     public TreeNode(int id, double val) {
         this.id = id;
         this.val = val;
